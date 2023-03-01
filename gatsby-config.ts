@@ -26,7 +26,7 @@ const config: GatsbyConfig = {
     options: {
       "name": "pages",
       // "path": "./src/pages/",
-      "path": `${__dirname}/content/`,
+      "path": `./content/`,
     },
     __key: "pages"
   },
