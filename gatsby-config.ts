@@ -3,8 +3,7 @@ import type { GatsbyConfig } from "gatsby";
 const config: GatsbyConfig = {
   siteMetadata: {
     title: `tc-website`,
-    description: `ゲーム開発者集会へようこそ！近日中にVRChatでイベントを開催予定です`,
-    author: `@creatornet`,
+    siteUrl:"https://creatornet.github.io/tc-website/"
   },
   // More easily incorporate content into your pages through automatic TypeScript type generation and better GraphQL IntelliSense.
   // If you use VSCode you can also use the GraphQL plugin
