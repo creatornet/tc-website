@@ -5,6 +5,7 @@ const config: GatsbyConfig = {
     title: `tc-website`,
     siteUrl:"https://creatornet.github.io/tc-website/"
   },
+  pathPrefix: `/tc-website`,
   // More easily incorporate content into your pages through automatic TypeScript type generation and better GraphQL IntelliSense.
   // If you use VSCode you can also use the GraphQL plugin
   // Learn more at: https://gatsby.dev/graphql-typegen
